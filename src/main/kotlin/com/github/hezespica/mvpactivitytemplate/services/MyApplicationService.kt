@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hezespica.mvpactivitytemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hezespica.mvpactivitytemplate.MyBundle
 
 class MyApplicationService {
 
